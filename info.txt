@@ -16,3 +16,18 @@ push changes
 
 make origin master default push location
     git push --set-upstream origin master
+
+
+For you:
+
+save changes
+    git add .
+
+commit (add context for others)
+    git commit -m "message"
+
+push (upload to repo)
+    git push
+
+get latest update from repo
+    git pull origin master
