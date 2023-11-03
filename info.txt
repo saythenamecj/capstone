@@ -1,0 +1,9 @@
+This is DEFAULT System Repository.
+
+Commands(in terminal):
+
+save changes
+    git add .
+
+first commit
+    git commit -m "First Commit"
