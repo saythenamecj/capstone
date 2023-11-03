@@ -5,5 +5,14 @@ Commands(in terminal):
 save changes
     git add .
 
-first commit
+commit (add context for others)
     git commit -m "First Commit"
+
+link github Repository
+    git remote add origin https://github.com/saythenamecj/capstone.git
+
+push changes
+    git push origin master
+
+make origin master default push location
+    git push --set-upstream origin master
