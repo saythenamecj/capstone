@@ -3,7 +3,7 @@
       <div class="div-3">
         <img
           loading="lazy"
-          src="../src/icons/logo.svg"
+          img src="../src/icons/logo.svg"
           class="img"
         />
         <div class="div-4">Login</div>
@@ -12,33 +12,45 @@
         <div class="div-7"><div class="input-2">Password</div></div>
         <img
           loading="lazy"
-          src="../src/icons/login.svg"
-          class="img-2"
+          img src="../src/icons/login.svg"
+          class="login"
         />
         <div class="passreset">Forgot Password? Click here.</div>
       </div>
     </div>
   </div>
   <style>
+
+
+
     .div {
+      background-size: cover;
+      width: cover;
+      height: cover;
       display: flex;
       flex-direction: column;
-      overflow: visible;
+    
+      
     }
     .bg {
+      object-fit: cover;
       background-color: #f0f0f0;
       align-self: auto;
       display: flex;
-      width: 100%;
+      width: auto;
+      height: auto;
       flex-direction: column;
       padding: 124px 80px;
       overflow: visible;
-    
+      border-radius: 20px;
+      
     }
     @media (max-width: 991px) {
       .bg {
         max-width: 100%;
-        padding: 100px 20px;
+        max-height: 100%;
+        padding: 160px;
+        
       }
     }
     .div-3 {
@@ -154,7 +166,7 @@
         padding-right: 20px;
       }
     }
-    .img-2 {
+    .login {
       aspect-ratio: 1;
       object-fit: contain;
       object-position: center;
@@ -165,9 +177,11 @@
       max-width: 100%;
       transition: .3s;
     }
-    .img-2:hover {
+    .login:hover {
         transform: scale(1.2);
         cursor: pointer;
+        /*color: #62ce54; */
+       filter: #56d856;
     } 
     .passreset {
       color: #000;
