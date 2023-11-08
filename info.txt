@@ -1,33 +1,43 @@
 This is DEFAULT System Repository.
 
-Commands(in terminal):
 
-save changes
-    git add .
+!!      Always check commits on Github                                          !!
+!!      Before pushing please maglagay kayo commit message para sa iba          !!
+!!      Check for errors before commit/push                                     !!
+!!      You can practice and make projects in the Practice Templates Folder     !!
+!!      Use src folder only for images/assets to use in code                    !!
 
-commit (add context for others)
-    git commit -m "First Commit"
+Commands for Github(in terminal):
 
-link github Repository
-    git remote add origin https://github.com/saythenamecj/capstone.git
+    link github Repository
+        git remote add origin https://github.com/saythenamecj/capstone.git
 
-push changes
-    git push origin master
+    save changes
+        git add .
 
-make origin master default push location
-    git push --set-upstream origin master
+    commit (add context for others)
+        git commit -m "First Commit"
+
+    push changes
+        git push origin master
+
+    make origin master default push location
+        git push --set-upstream origin master
 
 
-For you:
+    For you:
 
-save changes
-    git add .
+    get latest update from repo
+        git pull origin master
+        git fetch origin master
+        git reset --hard origin/master
 
-commit (add context for others)
-    git commit -m "message"
+    save changes
+        git add .
 
-push (upload to repo)
-    git push
+    commit (add context for others)
+        git commit -m "message"
 
-get latest update from repo
-    git pull origin master
+    push (upload to repo)
+        git push
+
