@@ -41,3 +41,5 @@ Commands for Github(in terminal):
     push (upload to repo)
         git push
 
+git push --set-upstream origin "name branch"
+
