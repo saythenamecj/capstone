@@ -1,0 +1,74 @@
+
+In this folder './frontend/' only files and material regarding the Backend shall be put.  
+
+YT @Traversy Media
+https://www.youtube.com/watch?v=u72H_zZzkcw
+    'Web Development in 2023 - Practical Guide'
+
+YT @Traversy Media
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t
+    'ReactJs Crash Course'
+
+YT @Traversy Media
+https://www.youtube.com/watch?v=mTz0GXj8NN0
+    'Next.js Crash Course'
+
+YT @Dennis Ivy
+https://www.youtube.com/watch?v=s2skans2dP4
+    'React JS Explained in 10 minutes'
+    
+YT @Peter Elbaum
+https://www.youtube.com/watch?v=8bhp89AIsnc
+    'REAL React Interview Questions'
+    
+YT @Zac Gordon
+https://www.youtube.com/watch?v=9GtB5G2xGTY
+    'What is JSX?'
+    
+YT @Aaron Jack
+https://www.youtube.com/watch?v=Z4pCqK-V_Wo
+    'CSS in 5 minutes'
+    
+YT @Bro Code
+https://www.youtube.com/watch?v=wRNinF7YQqQ
+    'Learn CSS in 1 hour'
+    
+YT @Fireship
+https://www.youtube.com/watch?v=K74l26pE4YA
+    'CSS Flexbox in 100 seconds'
+    
+YT @Fireship
+https://www.youtube.com/watch?v=NtRmIp4eMjs
+    'CSS Variables in 100 seconds'
+    
+YT @JavaScript Mastery
+https://www.youtube.com/watch?v=F627pKNUCVQ
+    'Full 10 Hours React Frontend Course'
+    
+YT @Programming with Mosh
+https://www.youtube.com/watch?v=SqcY0GlETPk
+    'React Tutorial for Beginners'
+    
+YT @Fireship
+https://www.youtube.com/watch?v=Sxxw3qtb3_g
+    'What is a Tech Stack?'
+    
+YT @James Cross
+https://www.youtube.com/watch?v=vewTtKgLfQs
+    'Frontend Developer Roadmap 2022'
+    
+YT @James Cross
+https://www.youtube.com/watch?v=KImhD5jwo0s
+    'Javascript Roadmap in 2022'
+    
+YT @SuperSimpleDev
+https://www.youtube.com/watch?v=WG5ikvJ2TKA
+    'Front Web Development - Overview'
+    
+YT @Peter Elbaum
+https://www.youtube.com/watch?v=YWumNJcdOMI
+    'How to Become a MERN Stack Developer'
+    
+YT @freeCodeCamp.org
+https://www.youtube.com/watch?v=7CqJlxBYj-M
+    'Learn the MERN Stack'

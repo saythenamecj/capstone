@@ -1,5 +1,5 @@
 
-In this folder './Backend/' only files and material regarding the Backend shall be put.  
+In this folder './backend/' only files and material regarding the Backend shall be put.  
 
 
 
