@@ -1,0 +1,53 @@
+
+In this folder './backend/' only files and material regarding the Backend shall be put.  
+
+
+
+YT @Devtamin
+https://www.youtube.com/watch?v=9OfL9H6AmhQ
+    'Restful CRUD API with Node.js, Express and MongoDB'
+
+YT @SuperSimpleDev
+https://www.youtube.com/watch?v=XBu54nfzxAQ
+    'Backend Web Development - Overview'
+
+YT @Bro Code
+https://www.youtube.com/watch?v=c2M-rlkkT5o
+    'Learn Mongo DB'
+
+YT @freeCodeCamp.org
+https://www.youtube.com/watch?v=WXsD0ZgxjRw
+    'API Full Course 2023'
+
+YT @Web Dev Simplified
+https://www.youtube.com/watch?v=iiADhChRriM
+    'Learn JSON in 10 minutes'
+
+YT @Web Dev Simplified
+https://www.youtube.com/watch?v=R8rmfD9Y5-c
+    '8 Must Know JavaScript Array Methods'
+
+YT @DoableDanny
+https://www.youtube.com/watch?v=OMoxLUxW7Wc
+    '17 Useful Array Methods in Javascript'
+
+YT @Web Dev Simplified
+https://www.youtube.com/watch?v=SccSCuHhOw0
+    'Learn Express.js in 35 minutes'
+
+YT @Programming with Mosh
+https://www.youtube.com/watch?v=TlB_eWDSMt4
+    'Learn Node.js in 1 hour'
+
+YT @PedroTech
+https://www.youtube.com/watch?v=m55PTVUrlnA
+    'All the JavaScript you need to know for React'
+
+YT @PedroTech
+https://www.youtube.com/watch?v=ACaT1Gfhe6I
+    'More Javascript you need to know for React'
+
+YT @Fireship
+https://www.youtube.com/watch?v=Tn6-PIqc4UM
+    'React in 100 seconds'
+
