@@ -7,6 +7,12 @@ This is DEFAULT System Repository.
 !!      You can practice and make projects in the Practice Templates Folder     !!
 !!      Use src folder only for images/assets to use in code                    !!
 
+
+Github Repo
+	https://github.com/saythenamecj/capstone
+
+
+
 Commands for Github(in terminal):
 
     link github Repository
@@ -40,4 +46,55 @@ Commands for Github(in terminal):
 
     push (upload to repo)
         git push
+
+
+________________________________________________________________________________
+
+IT Terms Glossary
+	https://www.dataprise.com/it-glossary/
+
+AI Detector
+	https://contentdetector.ai
+
+AI Based paraphraser
+	https://quillbot.com
+
+Learn Coding
+	https://www.freecodecamp.org/learn/
+
+Collection of Design Elements
+	https://stacksorted.com/buttons
+
+Repositories for Systems
+	https://stacksorted.com/buttons
+
+Collection for several APIs
+	https://devdocs.io
+	https://rapidapi.com/hub
+
+Google Fonts
+	https://fonts.google.com
+
+JS libraries
+	https://cdnjs.com/libraries
+
+Developer Roadmaps
+	https://roadmap.sh
+
+CSS library
+	https://css-tricks.com
+
+Front-End Code generator
+	https://webcode.tools
+
+
+Tools for Developers
+	https://smalldev.tools
+
+Cheatsheets and References
+	https://cheatography.com
+
+Temporary Email Generator
+	https://www.emaildrop.io
+
 
