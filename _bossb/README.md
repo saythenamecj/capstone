@@ -1,3 +1,4 @@
+#  Please Read before performing any changes.  
 ## For this folder, all the contents should be in relation to the front and back of the test project.  
   
 If unsure, then do not touch.  
@@ -6,6 +7,11 @@ I'll be the one in charge of the backend, and otherwise stated do not make chang
   
   
   
+  
+  
+  
+## Following are instructions for creating a general application with Create-React-App  
+   
 mkdir bossb  
 	make folder named bossb  
 cd bossb  
