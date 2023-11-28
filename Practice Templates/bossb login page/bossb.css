@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    background-color: ghostwhite;
+    margin: 0px; 
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+    
+}
+.fb-qoute{
+    
+    font-family:verdana;
+    font-weight: 500px;
+    font-size:20px;
+    margin:0px;
+    color: rgb(31, 31, 31);
+   
+   
+   
+   
+  
+    
+    
+   
+
+}
+.fb-qoute:hover{
+    color:rgba(0,136,169,1);
+   
+}
+
+
+.title{
+   
+    font-family:"Poppins", sans-serif;
+   
+    font-size:70px;
+    margin:0px;
+    color: rgb(31, 31, 31);
+    
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+.login-container{
+    width:380px;
+    background-color: rgb(172, 206, 206);
+    box-shadow: 1px 9px 18px 0px rgba(0,0,10,0.15);
+-webkit-box-shadow: 1px 9px 18px 0px rgba(0,0,10,0.15);
+-moz-box-shadow: 1px 9px 18px 0px rgba(0,0,10,0.15);
+    margin:30px auto;
+    border-radius: 10px;
+    padding:9px;
+  
+}
+input{
+    display: block;
+    width: 90%;
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:1px solid rgba(0,0,0,0.1);
+    margin: 10px;
+    transition: 0.2s;
+    font-family:"Poppins", sans-serif;
+   
+}
+.input:hover{
+   margin:300px;
+}
+button{
+    width: 60%;
+    background-color: rgba(0,136,169,1);
+    color: white;
+    text-align: center;
+    font-family:"Poppins", sans-serif;
+    
+    border-radius: 15px;
+    border:1px solid rgba(0,0,0,0.1);
+    font-size:20px;
+    padding: 5px;
+    transition: 0.3s;
+
+
+}
+.button:hover{
+
+    padding:6px;
+}
+.forgot-password{
+    display: block;
+    margin:15px 0px;
+    text-decoration:none;
+    color:#57595b;
+    font-family:"Poppins", sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+}
+hr{
+    margin: 25px 0;
+    opacity: 0.3;
+    
+}
+.create-button{
+    color: white;
+    background-color:#42b72a; ;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 50%;
+
+}
+.create-page{
+    font-family: arial;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.below-text{
+    font-family: arial;
+    text-decoration: none;
+    font-size: 15px;
+    
+    
+}
+.create-page:hover{
+    text-decoration: underline;
+}
