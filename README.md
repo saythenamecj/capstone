@@ -1,4 +1,4 @@
-# IT Thesis Capstone
+# Wana's Repo
 
 "Web-Based Official Management System with Financial Dashboard and Receipt tracker linked to Inventory for Boss B's Motorparts and Repairs"
 
@@ -8,4 +8,4 @@ By:
   
 JONATHAN O. CORONA  
 JOHN LESTER JAVIER C.  
-JOANNA LEA MARCIAL
+JOANA LEA MARCIAL
